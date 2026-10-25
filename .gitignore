@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Temporary / scratch directory
+scratch/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
